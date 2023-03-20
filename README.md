@@ -1,4 +1,4 @@
-# ProblemSolvingTask
+# Problem Solving Task in Javascript
 
 * The function takes an array of people objects as input, and returns an object with 4 lists A, B, C, and D as described in the problem statement.
 
